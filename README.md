@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:000000&height=200&section=header&text=Jeison%20Villada&fontColor=00FF41&fontSize=40&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN0MDRpbXoxM2gwa3o3c3JubDU2Zm0xZ211Mmg3dDE3OWN2Z3NtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s2cDZtcnkyczl6cXowemJsYWdqbmNoMDkydjZpczR2YWtubnNzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" />
 
 ### <span style="color:#00FF41">🔐 Cybersecurity | 💻 Software Developer | 🛡️ Security Enthusiast</span>
 
