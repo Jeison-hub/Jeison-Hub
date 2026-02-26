@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:000000&height=200&section=header&text=Jeison%20Villada&fontColor=00FF41&fontSize=40&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN0MDRpbXoxM2gwa3o3c3JubDU2Zm0xZ211Mmg3dDE3OWN2Z3NtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="70%" />
 
 ### <span style="color:#00FF41">🔐 Cybersecurity | 💻 Software Developer | 🛡️ Security Enthusiast</span>
 
@@ -114,20 +114,6 @@ Implementation of TCP/UDP communication models in Python.
 ```
 
 Secure by design • Auditable • Scalable • Resilient  
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeisonVillada&show_icons=true&theme=chartreuse-dark" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonVillada&layout=compact&theme=chartreuse-dark" />
 
 </div>
 
