@@ -1,110 +1,175 @@
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-blue)
-![Backend](https://img.shields.io/badge/Backend-Developer-green)
-![Security Mindset](https://img.shields.io/badge/Security-First-red)
----
-# Jeison Villada  
-### Cybersecurity | Software Developer | Security Enthusiast
+<div align="center">
+
+# 👨‍💻 Jeison Villada  
+### 🔐 Cybersecurity | 💻 Software Developer | 🛡️ Security Enthusiast  
+
+<br>
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-0A192F?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Developer-1F6FEB?style=for-the-badge)
+![Security Mindset](https://img.shields.io/badge/Security-First-8B0000?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I am a technology-driven professional focused on **Cybersecurity and Software Development**, with a strong interest in secure systems, network defense, and backend architecture.
+<table>
+<tr>
+<td width="50%">
 
-My approach combines:
-- 🔐 Security-first mindset
-- 🧩 Logical and structured problem solving
-- ⚙️ Clean and maintainable code
-- 📊 Analytical thinking
+Technology-driven professional focused on **Cybersecurity and Secure Software Development**.
 
-I am continuously improving my skills in offensive and defensive security, secure coding practices, and scalable software architecture.
+Strong interest in:
+- Web Application Security  
+- Backend Architecture  
+- Network Defense  
+- Secure Coding  
+
+</td>
+
+<td width="50%">
+
+**Core Approach**
+
+- 🔐 Security-first mindset  
+- 🧩 Structured problem solving  
+- ⚙️ Clean & maintainable code  
+- 📊 Analytical thinking  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Professional Focus
 
-- 🔍 Web Application Security
-- 🛡️ Vulnerability Analysis & Exploitation
-- 🌐 Networking (TCP/IP, UDP, Sockets)
-- 🖥️ Backend Development
-- 🗄️ Database Security
-- 🧪 Secure Software Design
+<div align="center">
+
+| Web Security | Vulnerability Analysis | Networking | Backend | Database Security | Secure Design |
+|--------------|----------------------|------------|----------|-------------------|---------------|
+| 🔍 | 🛡️ | 🌐 | 🖥️ | 🗄️ | 🧪 |
+
+</div>
 
 ---
 
 ## 🛠️ Technical Stack
-<div
-  align="center" >
-  <h4> 👨‍💻Programming👨‍💻 </h4>
-  <div
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" title="PYTHON" alt="PY" width="45" heigth="45"/>&nbsp; 
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/linux.svg" title="Linux" alt="Linux" width="45" heigth="45"/>&nbsp; 
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" title="sql" alt="sql" width="45" heigth="45"/>&nbsp;
-  <div/>  
-</div>  
-    
-### 🔐 Cybersecurity
-- SQL Injection Testing
-- Authentication & Access Control Analysis
-- Network Fundamentals (TCP/UDP)
-- Basic Pentesting Labs (DVWA, etc.)
-- Threat Analysis
 
-### 🧰 Tools
-- Git & GitHub
-- Visual Studio
-- Linux
-- Wireshark (basic traffic analysis)
-- VirtualBox
-- VMware
+<div align="center">
+
+### 👨‍💻 Programming & Environment
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+
+</div>
+
+---
+
+<details>
+<summary><b>🔐 Cybersecurity Capabilities</b></summary>
+<br>
+
+- SQL Injection Testing  
+- Authentication & Access Control Analysis  
+- Network Fundamentals (TCP / UDP)  
+- Pentesting Practice (DVWA Labs)  
+- Threat Modeling & Basic Exploitation  
+
+</details>
+
+---
+
+<details>
+<summary><b>🧰 Tools & Technologies</b></summary>
+<br>
+
+- Git & GitHub  
+- Linux Environments  
+- Wireshark (Traffic Analysis)  
+- VirtualBox / VMware  
+- Visual Studio  
+
+</details>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Secure Inventory System
-Development of a structured inventory system applying validation logic and database protection principles.
+<table>
+<tr>
+<td width="33%">
 
-### 🔹 Web Security Testing Environment
-Hands-on testing using vulnerable environments to understand:
-- SQL Injection
-- Authentication bypass
-- Input validation failures
+### 🔹 Secure Inventory System  
+Structured system applying validation logic and database protection principles.
 
-### 🔹 Network Socket Practice
-Implementation of TCP/UDP communication models in Python to understand real-world networking behavior.
+</td>
+
+<td width="33%">
+
+### 🔹 Web Security Lab  
+Hands-on exploitation environment for:
+- SQL Injection  
+- Authentication Bypass  
+- Input Validation Failures  
+
+</td>
+
+<td width="33%">
+
+### 🔹 Network Socket Practice  
+TCP/UDP communication implementation in Python for real-world networking understanding.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Currently Learning
+<details>
+<summary><b>📈 Currently Learning</b></summary>
+<br>
 
-- Advanced Web Exploitation
-- Secure Backend Architecture
-- Cryptography fundamentals
-- Defensive Security Strategies
-- Cloud Security basics
+- Advanced Web Exploitation  
+- Secure Backend Architecture  
+- Cryptography Fundamentals  
+- Defensive Security Strategies  
+- Cloud Security Basics  
+
+</details>
 
 ---
 
 ## 🧩 Professional Philosophy
 
-> Security is not a feature. It is an architecture decision.
+<div align="center">
 
-I believe in designing systems that are:
-- Secure by design
-- Auditable
-- Scalable
-- Resilient
+> **Security is not a feature. It is an architectural decision.**
+
+Secure by design • Auditable • Scalable • Resilient  
+
+</div>
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: [[Jeison Villada]](https://www.linkedin.com/in/jeison-villada-673282240/)
-- Email: [jeisonvillada13@gmail.com]
+<div align="center">
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jeison-villada-673282240/)  
+📩 jeisonvillada13@gmail.com  
+
+</div>
 
 ---
 
-⭐ Always building. Always securing. Always improving.
----
+<div align="center">
+
+⭐ Always Building • Always Securing • Always Improving
+
+</div>
