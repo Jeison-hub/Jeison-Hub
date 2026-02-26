@@ -35,11 +35,12 @@ I am continuously improving my skills in offensive and defensive security, secur
 ## 🛠️ Technical Stack
 
 ### 💻 Programming
-- C#
-- Python
-- SQL
-- Bash
-
+<div>
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" title="PYTHON" alt="PY" width="45" heigth="45"/>&nbsp; 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/linux.svg" title="Linux" alt="Linux" width="45" heigth="45"/>&nbsp; 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
+</div>  
 ### 🔐 Cybersecurity
 - SQL Injection Testing
 - Authentication & Access Control Analysis
@@ -104,8 +105,3 @@ I believe in designing systems that are:
 
 ⭐ Always building. Always securing. Always improving.
 ---
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeison-hub&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-hub&layout=compact&theme=dark)
