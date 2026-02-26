@@ -2,7 +2,7 @@
 ![Backend](https://img.shields.io/badge/Backend-Developer-green)
 ![Security Mindset](https://img.shields.io/badge/Security-First-red)
 ---
-# 👨‍💻 Jeison Villada  
+# Jeison Villada  
 ### Cybersecurity | Software Developer | Security Enthusiast
 
 ---
@@ -33,14 +33,17 @@ I am continuously improving my skills in offensive and defensive security, secur
 ---
 
 ## 🛠️ Technical Stack
-
-### 💻 Programming
-<div>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" title="PYTHON" alt="PY" width="45" heigth="45"/>&nbsp; 
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/linux.svg" title="Linux" alt="Linux" width="45" heigth="45"/>&nbsp; 
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
+<div
+  align="center" >
+  <h4> 👨‍💻Programming👨‍💻 </h4>
+  <div
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" title="PYTHON" alt="PY" width="45" heigth="45"/>&nbsp; 
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/linux.svg" title="Linux" alt="Linux" width="45" heigth="45"/>&nbsp; 
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VISUAL STUDIO" alt="VS" width="45" heigth="45"/>&nbsp; 
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" title="sql" alt="sql" width="45" heigth="45"/>&nbsp;
+  <div/>  
 </div>  
+    
 ### 🔐 Cybersecurity
 - SQL Injection Testing
 - Authentication & Access Control Analysis
