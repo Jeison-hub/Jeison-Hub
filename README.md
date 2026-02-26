@@ -1,168 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=JEISON%20VILLADA&fontColor=00FF41&fontSize=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:000000&height=200&section=header&text=Jeison%20Villada&fontColor=00FF41&fontSize=40&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 
-<h3 style="color:#00FF41">
-Offensive Security • Red Team Path • Secure Software Development
-</h3>
+### <span style="color:#00FF41">🔐 Cybersecurity | 💻 Software Developer | 🛡️ Security Enthusiast</span>
 
 <br>
 
-![Red Team](https://img.shields.io/badge/RedTeam-Active-000000?style=for-the-badge&logo=ghost&logoColor=FF0000)
-![Offensive Security](https://img.shields.io/badge/Offensive-Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![Backend Developer](https://img.shields.io/badge/Backend-Developer-000000?style=for-the-badge&logo=code&logoColor=00FF41)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![Backend](https://img.shields.io/badge/Backend-Developer-000000?style=for-the-badge&logo=code&logoColor=00FF41)
+![Security Mindset](https://img.shields.io/badge/Security-First-000000?style=for-the-badge&logo=shield&logoColor=00FF41)
 
 </div>
 
 ---
 
-## 🧠 Operator Profile
+## 🧠 About Me
 
-```bash
-> Role: Offensive Security Engineer (In Progress)
-> Focus: Web Exploitation | Backend Attack Surface | Network Analysis
-> Mindset: Break systems to rebuild them securely
-```
+<div style="background-color:#0D1117;padding:20px;border-radius:10px">
 
-Security-focused developer with strong interest in:
+Technology-driven professional focused on **Cybersecurity and Secure Software Development**.
 
-- Web Application Exploitation  
-- SQL Injection Analysis  
-- Authentication Bypass Techniques  
-- Network-Level Traffic Inspection  
-- Backend Attack Surface Mapping  
-- Secure Architecture Design  
+- 🔐 Security-first mindset  
+- 🧩 Structured problem solving  
+- ⚙️ Clean & maintainable code  
+- 📊 Analytical thinking  
+
+Specialized interest in web security, backend systems, and network-level analysis.
+
+</div>
 
 ---
 
-## 🎯 Offensive Capabilities
+## 🎯 Professional Focus
 
 <div align="center">
 
-| Web Exploitation | SQL Injection | Auth Bypass | Network Recon | Secure Backend |
-|------------------|--------------|------------|--------------|---------------|
-| 🔴 | 🔴 | 🔴 | 🟢 | 🟢 |
+| 🔍 Web Security | 🛡️ Exploitation | 🌐 Networking | 🖥️ Backend | 🗄️ Database | 🧪 Secure Design |
+|----------------|----------------|--------------|------------|------------|----------------|
 
 </div>
 
-<br>
-
-- Manual SQL Injection Testing  
-- Authentication & Access Control Weakness Analysis  
-- Input Validation Exploitation  
-- TCP / UDP Behavior Analysis  
-- Attack Surface Enumeration  
-- Lab-Based Exploitation (DVWA & Custom Environments)  
-
 ---
 
-## 🛠 Arsenal
+## 🛠️ Technical Stack
 
-<div align="center">
+<div align="center" style="background-color:#0D1117;padding:20px;border-radius:10px">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="55"/>
 
 </div>
 
-<br>
-
-**Environment & Tools**
-
-- Linux Environments  
-- Wireshark (Traffic Inspection)  
-- VirtualBox / VMware  
-- Git & GitHub  
-- Custom Practice Labs  
-
 ---
-
-## 📂 Red Team Projects
 
 <details>
-<summary><b style="color:#FF0000">🔴 Web Exploitation Lab</b></summary>
+<summary><b><span style="color:#00FF41">🔐 Cybersecurity Capabilities</span></b></summary>
 
-- SQL Injection Scenarios  
-- Authentication Bypass  
-- Privilege Escalation Simulation  
-- Input Filtering Weakness Discovery  
+<br>
+
+- SQL Injection Testing  
+- Authentication & Access Control Analysis  
+- Network Fundamentals (TCP / UDP)  
+- Pentesting Labs (DVWA)  
+- Threat Modeling  
 
 </details>
 
 ---
 
 <details>
-<summary><b style="color:#FF0000">🔴 Secure Backend Development</b></summary>
-
-- Validation-First Architecture  
-- Secure Database Interaction  
-- Attack Vector Mitigation  
-- Defensive Coding Practices  
-
-</details>
-
----
-
-<details>
-<summary><b style="color:#FF0000">🔴 Network Socket Research</b></summary>
-
-- TCP/UDP Implementation in Python  
-- Packet Flow Understanding  
-- Communication Model Analysis  
-
-</details>
-
----
-
-## 📈 Current Offensive Roadmap
-
-```bash
-[ ] Advanced SQLi Exploitation
-[ ] Blind & Time-Based Attacks
-[ ] Cryptography Deep Dive
-[ ] Web App Pentesting Methodology
-[ ] Cloud Attack Surface
-[ ] Privilege Escalation Techniques
-```
-
----
-
-## 🧩 Operational Philosophy
-
-```bash
-> Every system has an attack surface.
-> Every vulnerability has a pattern.
-> Every exploit teaches architecture.
-```
-
-Security is not decoration.  
-Security is structure.
-
----
-
-## 📊 Activity Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeisonVillada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<summary><b><span style="color:#00FF41">📂 Featured Projects</span></b></summary>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonVillada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+### 🔹 Secure Inventory System  
+Secure validation logic and protected database architecture.
+
+### 🔹 Web Security Lab  
+Testing environment for SQLi, authentication bypass, input validation failures.
+
+### 🔹 Network Socket Practice  
+Implementation of TCP/UDP communication models in Python.
+
+</details>
+
+---
+
+## 📈 Currently Learning
+
+<div style="background-color:#0D1117;padding:20px;border-radius:10px">
+
+- Advanced Web Exploitation  
+- Cryptography Fundamentals  
+- Defensive Security  
+- Cloud Security  
+- Secure Backend Architecture  
 
 </div>
 
 ---
 
-## 📬 Secure Channel
+## 🧩 Philosophy
 
 <div align="center">
 
-🔗 LinkedIn: https://www.linkedin.com/in/jeison-villada-673282240/  
+```bash
+> Security is not a feature.
+> It is an architectural decision.
+```
+
+Secure by design • Auditable • Scalable • Resilient  
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeisonVillada&show_icons=true&theme=chartreuse-dark" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonVillada&layout=compact&theme=chartreuse-dark" />
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jeison-villada-673282240/)  
 📩 jeisonvillada13@gmail.com  
 
 </div>
@@ -171,6 +146,6 @@ Security is structure.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0F2027&height=120&section=footer"/>
 
 </div>
