@@ -97,8 +97,8 @@ I believe in designing systems that are:
 
 ## 📬 Contact
 
-- LinkedIn: [Tu LinkedIn]
-- Email: [Tu correo profesional]
+- LinkedIn: [[Jeison Villada]](https://www.linkedin.com/in/jeison-villada-673282240/)
+- Email: [jeisonvillada13@gmail.com]
 
 ---
 
